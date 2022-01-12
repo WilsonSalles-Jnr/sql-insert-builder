@@ -1,0 +1,19 @@
+{
+  "name": "sqlbd-insert",
+  "version": "1.0.0",
+  "description": "copy the table from a table creation program and paste it into a string literal",
+  "main": "build-insert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilsonSalles-Jnr/sql-insert-builder.git"
+  },
+  "author": "Wilson Salles Junior <wilsonsallesjunior@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilsonSalles-Jnr/sql-insert-builder/issues"
+  },
+  "homepage": "https://github.com/WilsonSalles-Jnr/sql-insert-builder#readme"
+}
